@@ -3,7 +3,7 @@ import Desenvolvedor from 'wesleywerikis';
 
 class SobreMim extends Desenvolvedor {
   nome     = 'Wesley Werikis';
-  area    = 'Suporte Técnico';
+  area    = 'Análista de Suporte Técnico';
   trabalho  = 'Astersoft Sistemas';
   local = 'Londirna - Paraná';
 }
