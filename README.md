@@ -21,8 +21,6 @@ class Skills extends Desenvolvedor {
   <a href="https://www.instagram.com/wesleywerikis/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/wesleywerikis/"/></a>
   
-  <a href="#" alt="Gmail">
+  <a href="contactuserwesley@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
-  
-  <a href = "mailto:contactuserwesley@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>  
