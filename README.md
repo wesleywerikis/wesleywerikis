@@ -21,8 +21,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 **Analista de Suporte Técnico** \
 [**Astersoft**](https://astersoft.com.br/) • Full-time \
-Linguagens & Tecnologias: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`,\
-Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](https://pt.wikipedia.org/wiki/Marte_(planeta))
+Linguagens & Tecnologias: `Java`, `Cobol`\
 <br/>
 
 <p align="left">
