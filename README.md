@@ -24,8 +24,10 @@ Linguagens & Tecnologias: `Java`, `Cobol`.
 
     - Suporte ao cliente via call center auxiliando em emissões de notas fiscais e usabilidade do sistema.
     - Instalação do Sistema Astersoft, mapeamento de unidade de rede.
-    - Situações esporádicas de desenvolvimento em COBOL, criação de rotinas e variáveis para relatórios do sistema interno da Astersoft.
-    - Desenvolvimento em Java de uma rotina para gerar o QRCODE/PIX para pagamento, implementando no sistema da Astersoft.
+    - Situações esporádicas de desenvolvimento em COBOL, criação de rotinas e variáveis para relatórios
+    do sistema interno da Astersoft.
+    - Desenvolvimento em Java de uma rotina para gerar o QRCODE/PIX para pagamento, implementando 
+    no sistema da Astersoft.
 
 <br/>
 
