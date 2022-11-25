@@ -17,11 +17,11 @@ class Skills extends Desenvolvedor {
 ### Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="[https://www.spacex.com/static/images/share.jpg](https://www.agenciadream.com/uploads/logomarca/img_3581_20161104.png)"/>](https://www.spacex.com/)
 
 **Analista de Suporte Técnico** \
 [**Astersoft**](https://astersoft.com.br/) • Full-time \
-Linguagens & Tecnologias: `Java`, `Cobol`\
+Linguagens & Tecnologias: `Java`, `Cobol`.
 <br/>
 
 <p align="left">
