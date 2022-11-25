@@ -16,8 +16,6 @@ class Skills extends Desenvolvedor {
 
 ### Experiência de trabalho
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.agenciadream.com/uploads/logomarca/img_3581_20161104.png"/>](https://www.astersoft.com.br/)
 
 **Analista de Suporte Técnico** \
