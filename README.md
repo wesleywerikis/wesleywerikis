@@ -14,6 +14,17 @@ class Skills extends Desenvolvedor {
 }
 ```
 
+### Experiência de trabalho
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
+
+**Analista de Suporte Técnico** \
+[**SpaceX**](https://www.spacex.com/) • Full-time \
+Linguagens & Tecnologias: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`,\
+Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](https://pt.wikipedia.org/wiki/Marte_(planeta))
+<br/>
+
 <p align="left">
     <a href="https://www.linkedin.com/in/wesleywerikis/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesleywerikis/" /></a>
